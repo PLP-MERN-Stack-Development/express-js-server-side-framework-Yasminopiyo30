@@ -1,0 +1,22 @@
+{
+  "name": "express-js-week2-yasmin",
+  "version": "1.0.0",
+  "description": "Week 2 PLP Express.js Assignment with Swagger",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["express", "rest", "api", "swagger"],
+  "author": "Yasmin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
